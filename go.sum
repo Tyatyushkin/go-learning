@@ -1,4 +1,8 @@
 github.com/headfirstgo/keyboard v0.0.0-20170926053303-9930bcf72703 h1:dUWxlI5MeD7l7XKR5IruZBR6R+BrNJaJFQ/CMCL0whU=
 github.com/headfirstgo/keyboard v0.0.0-20170926053303-9930bcf72703/go.mod h1:6d1pa/JpFQHwXHOqD+gxvdJe30EkP5mnc3I6lE9yTaQ=
+github.com/tyatyushkin/calendar v0.0.0-20220830182546-1853f29b0bbb h1:r/XwqGTkrpvoYilcv5u5fgZ04hNu0y09f2Jkj6sU8kk=
+github.com/tyatyushkin/calendar v0.0.0-20220830182546-1853f29b0bbb/go.mod h1:14HX7Mut6x2x3vrP94llKeD6p2hyiyjv4EfFM0KplTo=
+github.com/tyatyushkin/gadget v0.0.1 h1:6saJ0CoIvp5Ph2eIRKoGOzqTNc/8tzhkXBiEMl3wncc=
+github.com/tyatyushkin/gadget v0.0.1/go.mod h1:QNDTCT5QjLXFXZj8VOPQHcyG2zj2EehA5sdAMnc1tJQ=
 github.com/tyatyushkin/magazine v0.0.0-20220827084829-4aa19f5849e8 h1:6bFtJV9UqsMmBoM0fuAOhm+pGrbeSLy8zS+t2HkrXCQ=
 github.com/tyatyushkin/magazine v0.0.0-20220827084829-4aa19f5849e8/go.mod h1:HMBsnyR6acfTWs9BXUUxZRxbJ5/sDj8gKPoMjLxdty4=
